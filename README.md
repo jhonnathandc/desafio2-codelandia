@@ -2,7 +2,7 @@
 
 Este projeto é um desafio da comunidade codelândia construída pelo [IuriCode](https://github.com/iuricode).
 
-[Acesse o site aqui](https://desafio2jordanshoes.netlify.app/)
+[Acesse o site aqui](https://desafio2codelandia.vercel.app/)
 
 ## Demonstração
 ![1211212](https://user-images.githubusercontent.com/82620787/203675294-7ee58a67-af99-40c0-bb8d-f2a81554898b.png)
